@@ -18,30 +18,30 @@
 
   ### 1) Create & Activate Conda Environment
 
-  \`\`\`bash
+  ```bash
   conda create -n mppi_tutorial python=3.10
   conda activate mppi_tutorial
-  \`\`\`
+  ```
 
   ### 2) Install Dependencies
 
-  \`\`\`bash
+  ```bash
   conda install matplotlib
   conda install pytorch=2.5.1 torchvision pytorch-cuda=11.8 -c pytorch -c nvidia
   conda install -c rapidsai -c nvidia -c conda-forge -c defaults \
       cuml python=3.10 cudatoolkit=11.8
-  \`\`\`
+  ```
 
   ---
 
   # 🚀 Running the Example Code
 
-  \`\`\`bash
+  ```bash
   git clone <repository_url>
   cd <repository_name>
 
   python3 examples/quadrotor3d_run.py
-  \`\`\`
+  ```
 
   ---
 
@@ -51,21 +51,5 @@
 
   📹 **MPPI Tutorial Lecture Video**  
   👉 (Insert your YouTube link here)
-
-  ---
-
-  # 📁 Repository Structure (Example)
-
-  \`\`\`
-  .
-  ├── examples/
-  │   ├── quadrotor3d_run.py
-  ├── ppt/
-  │   ├── tutorial_session1.pptx
-  │   ├── tutorial_session2.pptx
-  │   ├── tutorial_session3.pptx
-  ├── videos/
-  └── README.md
-  \`\`\`
 
   ---
