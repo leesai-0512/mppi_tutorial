@@ -6,15 +6,11 @@
 
   ## 📚 Tutorial Structure (3 Sessions)
 
-  1. **Session 1 — Essential Concepts for Understanding MPPI**
-  2. **Session 2 — MPPI Algorithm Explanation and Derivtation**
-  3. **Session 3 — Code Walkthrough and Practical Implementation**
+  1. **Session 1 — Essential Concepts for Understanding MPPI** 👉 **[Session 1](https://youtu.be/u8wPyTtI8as)**
+  2. **Session 2 — MPPI Algorithm Explanation and Derivtation** 👉 **[Session 2](https://youtu.be/w_NsuKs25Z8)**
+  3. **Session 3 — Code Walkthrough and Practical Implementation** 👉 **[Session 3](https://youtu.be/-9ET4rlpoz8)**
 
-  ---
-  ## 📹 **MPPI Tutorial Lecture Video**  
-  👉 **[Session 1](https://youtu.be/u8wPyTtI8as)**  
-  👉 **[Session 2](https://youtu.be/w_NsuKs25Z8)**  
-  👉 **[Session 3](https://youtu.be/-9ET4rlpoz8)**  
+    
 
   ---
   # ⚙️ Environment Setup
