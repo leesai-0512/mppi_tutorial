@@ -6,12 +6,17 @@
 
   ## 📚 Tutorial Structure (3 Sessions)
 
-  1. **Session 1 — Introduction & Fundamental Concepts**
-  2. **Session 2 — MPPI Algorithm and Derivation**
-  3. **Session 3 — Code Walkthrough & Review of Recent Research**
+  1. **Session 1 — Essential Concepts for Understanding MPPI**
+  2. **Session 2 — MPPI Algorithm Explanation and Derivtation**
+  3. **Session 3 — Code Walkthrough and Practical Implementation**
 
   ---
+  📹 **MPPI Tutorial Lecture Video**  
+  👉 **[Session 1](https://youtu.be/u8wPyTtI8as)**
+  👉 **[Session 1](https://youtu.be/w_NsuKs25Z8)**
+  👉 **[Session 1](https://youtu.be/-9ET4rlpoz8)**
 
+  
   # ⚙️ Environment Setup
 
   Below is the recommended environment configuration for running the MPPI tutorial examples.
@@ -28,8 +33,7 @@
   ```bash
   conda install matplotlib
   conda install pytorch=2.5.1 torchvision pytorch-cuda=11.8 -c pytorch -c nvidia
-  conda install -c rapidsai -c nvidia -c conda-forge -c defaults \
-      cuml python=3.10 cudatoolkit=11.8
+
   ```
 
   ---
@@ -47,9 +51,8 @@
 
   # 🎥 Tutorial Videos
 
-  You can watch the full tutorial series here:
+  ![Session Overview](outputs/cartpole.gif)
 
-  📹 **MPPI Tutorial Lecture Video**  
-  👉 (Insert your YouTube link here)
+  
 
   ---
