@@ -12,7 +12,12 @@
   2. **Session 2 — MPPI Algorithm Explanation and Derivtation** 👉 **[Session 2](https://youtu.be/w_NsuKs25Z8)**
   3. **Session 3 — Code Walkthrough and Practical Implementation** 👉 **[Session 3](https://youtu.be/-9ET4rlpoz8)**
 
-    
+
+  ### 📄 Lecture Materials (Google Drive)
+
+The original PPT files are too large to be uploaded to GitHub, so the lecture materials are provided through Google Drive instead.
+
+👉 **[Download the MPPI Tutorial Lecture Materials (PPT)](https://drive.google.com/drive/folders/1d8BNSHpyymQ3jF-sdPVYpribDgkNTpzT?usp=sharing)**  
 
   ---
   # ⚙️ Environment Setup
