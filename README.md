@@ -23,19 +23,19 @@ JAX can be installed directly via pip:
 
 ```bash
 pip install -U "jax[cuda12]"
-'''
+```
 ### 2) Clone the Project into Your ROS2 Workspace
 ```bash
 mkdir -p ~/mppi_ros2_ws/src
 cd ~/mppi_ros2_ws/src
 git clone <repository_url>
-'''
+```
 ### 3) Build the Package
 ```bash
 cd ~/mppi_ros2_ws
 colcon build
 source install/setup.bash
-'''
+```
   ---
 
   # 🚀 Running the Example Code
