@@ -2,6 +2,8 @@
   This repository provides lecture materials, example code, and tutorial videos for a **3-session introduction to Model Predictive Path Integral (MPPI) control**.
   The tutorial is designed for an graduate mobile robotics course.
 
+  If you want to use the MPPI implementation for a ROS2-based manipulator, please switch to the mppi_ros2 branch.
+
   ---
 
   ## 📚 Tutorial Structure (3 Sessions)
