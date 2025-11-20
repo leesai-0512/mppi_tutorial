@@ -43,6 +43,14 @@ source install/setup.bash
   ```bash
 ros2 launch rci_action_manager simulation.launch.py
   ```
+---
+  # 🎥 MPPI Demo Examples
+
+| ![](gifs/pick_and_place.gif) |
+|:-------------------------:|
+
+
+  ---
 
   ---
 
