@@ -1,6 +1,6 @@
   # MPPI Tutorial
   This repository provides lecture materials, example code, and tutorial videos for a **3-session introduction to Model Predictive Path Integral (MPPI) control**.
-  The tutorial is designed for an undergraduate/graduate mobile robotics course.
+  The tutorial is designed for an graduate mobile robotics course.
 
   ---
 
@@ -48,7 +48,8 @@
   # 🎥 Tutorial Videos
 
   ![Session Overview](outputs/cartpole.gif)
-
+  ![Session Overview](outputs/mobile2d_gaussian.gif)
+  ![Session Overview](outputs/quad3d_gaussian.gif)
   
 
   ---
