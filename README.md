@@ -47,11 +47,8 @@
 
   # 🎥 Tutorial Videos
 
-<p align="center">
-  <img src="outputs/cartpole.gif" width="450"/>
-</p>
-
-<!-- separator -->
+| ![](outputs/cartpole.gif) |
+|:-------------------------:|
 
 | ![](outputs/mobile2d_gaussian.gif) | ![](outputs/quad3d_gaussian.gif) |
 |------------------------------------|----------------------------------|
