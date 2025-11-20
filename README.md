@@ -45,7 +45,7 @@
 
   ---
 
-  # 🎥 Tutorial Videos
+  # 🎥 MPPI Demo Examples
 
 | ![](outputs/cartpole.gif) |
 |:-------------------------:|
@@ -55,3 +55,10 @@
 
 
   ---
+
+  # 📊 Visualization Results
+  | **Gaussian distribution** | ![](outputs/sample_noise_gaussian.png) | ![](outputs/sample_traj_gaussian.png) |
+|-----------|------------------------|------------------------|
+| **Normal-logNormal distribution** | ![](outputs/sample_noise_log_nln.png) | ![](outputs/sample_traj_log_nln.png) |
+| **Uniform distribution** | ![](outputs/sample_noise_uniform.png) | ![](outputs/sample_traj_uniform.png) |
+
