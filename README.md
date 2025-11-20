@@ -47,7 +47,8 @@
 
   # 🎥 Tutorial Videos
 
-  ![cartpole](outputs/cartpole.gif)
+  | ![cartpole](outputs/cartpole.gif) |
+|----------------------------------|
   | ![](outputs/mobile2d_gaussian.gif) | ![](outputs/quad3d_gaussian.gif) |
   |-----------------------------|-----------------------------------|
 
