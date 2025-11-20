@@ -16,6 +16,7 @@
   ### 📄 Lecture Materials (Google Drive)
 
 The original PPT files are too large to be uploaded to GitHub, so the lecture materials are provided through Google Drive instead.
+A PDF version of the slides is available directly in this repository
 
 👉 **[Download the MPPI Tutorial Lecture Materials (PPT)](https://drive.google.com/drive/folders/1d8BNSHpyymQ3jF-sdPVYpribDgkNTpzT?usp=sharing)**  
 
