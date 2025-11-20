@@ -47,9 +47,8 @@
 
   # 🎥 Tutorial Videos
 
-  ![Session Overview](outputs/cartpole.gif)
-  ![Session Overview](outputs/mobile2d_gaussian.gif)
-  ![Session Overview](outputs/quad3d_gaussian.gif)
-  
+  ![cartpole](outputs/cartpole.gif)
+  | ![](outputs/mobile2d_gaussian.gif) | ![](outputs/quad3d_gaussian.gif) |
+  |-----------------------------|-----------------------------------|
 
   ---
