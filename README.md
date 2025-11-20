@@ -11,7 +11,7 @@
   3. **Session 3 — Code Walkthrough and Practical Implementation**
 
   ---
-  📹 **MPPI Tutorial Lecture Video**  
+  ## 📹 **MPPI Tutorial Lecture Video**  
   👉 **[Session 1](https://youtu.be/u8wPyTtI8as)**
   👉 **[Session 1](https://youtu.be/w_NsuKs25Z8)**
   👉 **[Session 1](https://youtu.be/-9ET4rlpoz8)**
