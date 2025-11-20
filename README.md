@@ -12,11 +12,11 @@
 
   ---
   ## 📹 **MPPI Tutorial Lecture Video**  
-  👉 **[Session 1](https://youtu.be/u8wPyTtI8as)**
-  👉 **[Session 1](https://youtu.be/w_NsuKs25Z8)**
-  👉 **[Session 1](https://youtu.be/-9ET4rlpoz8)**
+  👉 **[Session 1](https://youtu.be/u8wPyTtI8as)**  
+  👉 **[Session 2](https://youtu.be/w_NsuKs25Z8)**  
+  👉 **[Session 3](https://youtu.be/-9ET4rlpoz8)**  
 
-  
+  ---
   # ⚙️ Environment Setup
 
   Below is the recommended environment configuration for running the MPPI tutorial examples.
