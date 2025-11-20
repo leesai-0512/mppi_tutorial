@@ -1,0 +1,6 @@
+mujoco_ros2_node: 
+  ros__parameters:
+    description_package_name: "franka_description"
+    xml_file_path: "robots/panda/xml/scene.xml"
+
+    initial_qpos: [0.0, -0.785398163, 0.0, -2.35619449, 0.0, 1.57079632679,0.785398163397, 0.03, 0.03]

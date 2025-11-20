@@ -1,0 +1,15 @@
+simulation_node: 
+  ros__parameters:
+    description_package_name: "franka_description"
+    urdf_file_path: "robots/panda/panda.urdf"
+    ee_joint_name: "panda_joint7"
+    joint_names: [
+      "panda_joint1",
+      "panda_joint2",
+      "panda_joint3",
+      "panda_joint4",
+      "panda_joint5",
+      "panda_joint6",
+      "panda_joint7"
+    ]
+    initial_qpos: [0.0, -0.785398163, 0.0, -2.35619449, 0.0, 1.57079632679,0.785398163397, 0.03, 0.03]
